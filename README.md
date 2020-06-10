@@ -45,6 +45,7 @@ Our game opens with size of 800 x 400 pixels originally. However, the game can s
 
 
 ![](https://cdn.serverbutik.com.tr/bWqSx3.png)
+
 550x800p (Mobile)
 
 Screen sizes can also be changed in the settings section.
