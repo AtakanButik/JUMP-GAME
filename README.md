@@ -42,6 +42,8 @@ Con.FASTEST_MAN_ALIVE = 1; // allow to stop jumping with key S or DOWN
 Our game opens with size of 800 x 400 pixels originally. However, the game can support almost all sizes of screens. Our game also has support for mobile screens.
 ![](https://cdn.serverbutik.com.tr/YnvsKt.png)
 1920x1080p
+
+
 ![](https://cdn.serverbutik.com.tr/bWqSx3.png)
 550x800p (Mobile)
 
